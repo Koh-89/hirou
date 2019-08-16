@@ -5,6 +5,33 @@ body {
   margin: 0;
 }
 
+@media (max-width: 1000px) {
+
+  .SNS {
+    width: 350px;
+  }
+
+  .sns {
+    padding: 0px 20px!important;
+  }
+
+  h1 {
+    font-size: 26px!important;
+    width: 300px!important;
+    margin-left: 20px!important;
+  }
+
+  .疲労回復pic {
+    height: 250px!important;
+    margin: 50px 50px 50px 50px!important;
+  }
+
+  h2 {
+    font-size: 22px!important;
+  }
+
+}
+
 .topper {
   border-bottom: 4px solid #979797;
   width: 100%;
